@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\kinect_grabber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.Nuvem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.Projeto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.Otimizador.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.BlendShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.Tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.ModeloFace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\Classe.PCA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\CLM.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\FCheck.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\FDet.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\IO.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\Patch.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\PAW.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\PDM.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\include\Tracker.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\KDTree3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\FileHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\FileLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\FileWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MathHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MMProjectionCostFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MultilinearModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MultilinearModelHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\KDTree3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\DataContainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\Definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\FileHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\FileLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\FileWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MathHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MMProjectionCostFunction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MultilinearModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\MultilinearModelHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\RegistrationHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\PCA\VectorNX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Luiz Felipe\Dropbox\Kinect\ProjetoGraduacao\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82DC4E95-D4C9-3397-A0F1-14DC2C581DD0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6882A4C0-1722-3F12-8B45-5D59F212518E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

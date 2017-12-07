@@ -1,0 +1,3 @@
+C:/Users/Luiz Felipe/Dropbox/Kinect/ProjetoGraduacao/build/CMakeFiles/ProjetoGraduacao.dir
+C:/Users/Luiz Felipe/Dropbox/Kinect/ProjetoGraduacao/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Luiz Felipe/Dropbox/Kinect/ProjetoGraduacao/build/CMakeFiles/ZERO_CHECK.dir
